@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402320213775",
+    "project_id": "play-firebase-8b663",
+    "storage_bucket": "play-firebase-8b663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402320213775:android:6ccbec2c959ba20586a07a",
+        "android_client_info": {
+          "package_name": "com.shubham.playfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402320213775-ejh2onmc8p7qosbghhpr8rgdvf92n8ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd32o6LNZx0DAOYg-D6PFERo6TpXAtlhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402320213775-ejh2onmc8p7qosbghhpr8rgdvf92n8ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
